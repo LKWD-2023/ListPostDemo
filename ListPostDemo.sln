@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32819.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ListPostDemo.Web", "ListPostDemo.Web\ListPostDemo.Web.csproj", "{80466FA3-F801-4D49-AF53-DFC0CA683277}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ListPostDemo.Data", "ListPostDemo.Data\ListPostDemo.Data.csproj", "{8DC3E390-4DFE-4BFE-A895-48F63A2E6C37}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{80466FA3-F801-4D49-AF53-DFC0CA683277}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{80466FA3-F801-4D49-AF53-DFC0CA683277}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{80466FA3-F801-4D49-AF53-DFC0CA683277}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{80466FA3-F801-4D49-AF53-DFC0CA683277}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8DC3E390-4DFE-4BFE-A895-48F63A2E6C37}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8DC3E390-4DFE-4BFE-A895-48F63A2E6C37}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8DC3E390-4DFE-4BFE-A895-48F63A2E6C37}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8DC3E390-4DFE-4BFE-A895-48F63A2E6C37}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8D2F8151-4070-4A09-B8E2-E69F3AD35A60}
+	EndGlobalSection
+EndGlobal
